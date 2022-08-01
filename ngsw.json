@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1659396442579,
+  "index": "https://ZakTreister.github.io/HakodHazugi/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ZakTreister.github.io/HakodHazugi/favicon.ico",
+        "https://ZakTreister.github.io/HakodHazugi/index.html",
+        "https://ZakTreister.github.io/HakodHazugi/main.29fff47ec0490f7d.js",
+        "https://ZakTreister.github.io/HakodHazugi/manifest.webmanifest",
+        "https://ZakTreister.github.io/HakodHazugi/polyfills.80713bc7a2283b98.js",
+        "https://ZakTreister.github.io/HakodHazugi/runtime.d57e1431dd3086a9.js",
+        "https://ZakTreister.github.io/HakodHazugi/styles.c2ab251292ed2e7a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-128x128.png",
+        "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-144x144.png",
+        "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-152x152.png",
+        "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-192x192.png",
+        "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-384x384.png",
+        "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-512x512.png",
+        "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-72x72.png",
+        "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://ZakTreister.github.io/HakodHazugi/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://ZakTreister.github.io/HakodHazugi/index.html": "51e6e25dc2fb30dd8192ef8b2105a37a7f733dce",
+    "https://ZakTreister.github.io/HakodHazugi/main.29fff47ec0490f7d.js": "44e35357313c7e69c013022a3a554589d2357006",
+    "https://ZakTreister.github.io/HakodHazugi/manifest.webmanifest": "78fa0aa63079f9a1ee2c86b1e18f5d82de3923fa",
+    "https://ZakTreister.github.io/HakodHazugi/polyfills.80713bc7a2283b98.js": "685881bf988832160d392000d98980879ad09488",
+    "https://ZakTreister.github.io/HakodHazugi/runtime.d57e1431dd3086a9.js": "794098d31cb9bf4aca56ea573a3a40ee1b3a1dc8",
+    "https://ZakTreister.github.io/HakodHazugi/styles.c2ab251292ed2e7a.css": "104a456d659fc0bf356f5590edcd63a40b6fa68a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
