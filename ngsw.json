@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1659396442579,
+  "timestamp": 1659397106495,
   "index": "https://ZakTreister.github.io/HakodHazugi/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://ZakTreister.github.io/HakodHazugi/favicon.ico",
         "https://ZakTreister.github.io/HakodHazugi/index.html",
-        "https://ZakTreister.github.io/HakodHazugi/main.29fff47ec0490f7d.js",
+        "https://ZakTreister.github.io/HakodHazugi/main.9dafc4d30a593dbb.js",
         "https://ZakTreister.github.io/HakodHazugi/manifest.webmanifest",
         "https://ZakTreister.github.io/HakodHazugi/polyfills.80713bc7a2283b98.js",
         "https://ZakTreister.github.io/HakodHazugi/runtime.d57e1431dd3086a9.js",
@@ -52,8 +52,8 @@
     "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://ZakTreister.github.io/HakodHazugi/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://ZakTreister.github.io/HakodHazugi/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ZakTreister.github.io/HakodHazugi/index.html": "51e6e25dc2fb30dd8192ef8b2105a37a7f733dce",
-    "https://ZakTreister.github.io/HakodHazugi/main.29fff47ec0490f7d.js": "44e35357313c7e69c013022a3a554589d2357006",
+    "https://ZakTreister.github.io/HakodHazugi/index.html": "f17ea96bc78b128eb18a9ce894bba760943b9bab",
+    "https://ZakTreister.github.io/HakodHazugi/main.9dafc4d30a593dbb.js": "268fc8f3d918a1810995b627b19d91c73be044e1",
     "https://ZakTreister.github.io/HakodHazugi/manifest.webmanifest": "78fa0aa63079f9a1ee2c86b1e18f5d82de3923fa",
     "https://ZakTreister.github.io/HakodHazugi/polyfills.80713bc7a2283b98.js": "685881bf988832160d392000d98980879ad09488",
     "https://ZakTreister.github.io/HakodHazugi/runtime.d57e1431dd3086a9.js": "794098d31cb9bf4aca56ea573a3a40ee1b3a1dc8",
